@@ -6,9 +6,9 @@ This is a simple site made with **GitHub Pages** and Markdown.
 ---
 
 ## 🚀 About Me
-- 🎓 I’m currently learning **[Your Field]**
-- 💻 Interested in **Web Development**, **Data Science**, and **Open Source**
-- 🌍 Based in **[Your Location]**
+- 🎓 I’m currently learning **[Mechanical Engineering]**
+- 💻 Interested in **Drug Delivery & Droplet Generation**, **Bubble & Droplet Dynamic**, and **Microfluidics & Biofluid Dynamics**
+- 🌍 Based in **[Iran]**
 
 ---
 
